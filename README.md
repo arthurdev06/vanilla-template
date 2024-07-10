@@ -13,16 +13,13 @@ https://github.com/arthurdev06/vanilla-template/assets/116519847/5f77d267-f144-4
 <br>
 
 ### Instalation
+> add this to your plugin file (especific for your use case)
+```
+{
+  "arthurdev06/vanilla-template"
+}
 
-<br>
-
-### Features 
-
-<br>
-
-### Todo
-- add instalation ways in readme.md
-- add params for the command 
+```
 
 <br>
 

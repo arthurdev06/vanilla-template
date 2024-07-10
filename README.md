@@ -5,7 +5,7 @@
 <br>
 <br>
 <video width="500" height="500" controls>
-  <source src="./preview.mp4" type="video/mp4">
+  <source src="preview.mp4" type="video/mp4">
 </video>
 <br>
 <br>

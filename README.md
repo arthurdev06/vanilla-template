@@ -4,7 +4,9 @@
 <p align="center"> An nvim plugin to create an vanilla js template</p>
 <br>
 <br>
-<p align="center"> preview.mp4 </p>
+<video width="500" height="500" controls>
+  <source src="./preview.mp4" type="video/mp4">
+</video>
 <br>
 <br>
 

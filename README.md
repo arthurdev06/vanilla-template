@@ -1,16 +1,27 @@
-# Vanilla Template 🗒️
-
+<h1 align="center"> Vanilla Template 🗒️ </h1>
+<br>
+<br>
 <p align="center"> An nvim plugin to create an vanilla js template;</p>
+<br>
+<br>
 <p align="center"> preview.mp4 </p>
+<br>
+<br>
 
 ### Instalation
 
+<br>
+
 ### Features 
+
+<br>
 
 ### Todo
 - add preview video
 - add instalation ways in readme.md
 - add params for the command 
+
+<br>
 
 ###  Contributing
 

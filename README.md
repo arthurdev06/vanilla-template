@@ -1,7 +1,7 @@
 <h1 align="center"> Vanilla Template 🗒️ </h1>
 <br>
 <br>
-<p align="center"> An nvim plugin to create an vanilla js template;</p>
+<p align="center"> An nvim plugin to create an vanilla js template</p>
 <br>
 <br>
 <p align="center"> preview.mp4 </p>

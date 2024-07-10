@@ -1,7 +1,11 @@
 local M = {}
 
 local function write_file(file_path, content)
-	local file = io.open(file_path, "w")
+	local file, err = io.open(file_path, "w")
+	if not file then
+		print("Erro ao abrir o arquivo " .. file_path .. ": " .. err)
+		return
+	end
 	file:write(content)
 	file:close()
 end

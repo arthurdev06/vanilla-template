@@ -4,9 +4,9 @@
 <p align="center"> An nvim plugin to create an vanilla js template</p>
 <br>
 <br>
-<video width="500" height="500" controls>
-  <source src="./preview.mp4" type="video/mp4">
-</video>
+
+[![](preview.mp4)](https://github.com/arthurdev06/vanilla-template/blob/main/preview.mp4)
+
 <br>
 <br>
 

@@ -1,1 +1,1 @@
-print("hello world")
+require("vanilla-template").setup()

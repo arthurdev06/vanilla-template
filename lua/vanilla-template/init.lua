@@ -46,7 +46,7 @@ local function create_files()
 end
 
 function M.setup()
-	vim.api.nvim_create_user_command("vanilla-template", create_files, {})
+	vim.api.nvim_create_user_command("vanillaTemplate", create_files, {})
 end
 
 return M

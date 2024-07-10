@@ -5,7 +5,9 @@
 <br>
 <br>
 
-[![](preview.mp4)](https://github.com/arthurdev06/vanilla-template/blob/main/preview.mp4)
+
+https://github.com/arthurdev06/vanilla-template/assets/116519847/5f77d267-f144-425a-b4c9-9241135e1f21
+
 
 <br>
 <br>
@@ -19,7 +21,6 @@
 <br>
 
 ### Todo
-- add preview video
 - add instalation ways in readme.md
 - add params for the command 
 

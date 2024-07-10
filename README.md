@@ -9,7 +9,8 @@
 
 ### Todo
 - add preview video
-- add params for the command
+- add instalation ways in readme.md
+- add params for the command 
 
 ###  Contributing
 

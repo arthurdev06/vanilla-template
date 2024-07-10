@@ -1,7 +1,7 @@
 <h1 align="center"> Vanilla Template 🗒️ </h1>
 <br>
 <br>
-<p align="center"> An nvim plugin to create an vanilla js template</p>
+<h3 align="center"> An nvim plugin to create an vanilla js template</h3>
 <br>
 <br>
 
@@ -18,7 +18,6 @@ https://github.com/arthurdev06/vanilla-template/assets/116519847/5f77d267-f144-4
 {
   "arthurdev06/vanilla-template"
 }
-
 ```
 
 <br>
